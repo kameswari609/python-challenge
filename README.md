@@ -13,4 +13,4 @@ The average of the changes in "Profit/Losses" over the entire period
 The greatest increase in profits (date and amount) over the entire period
 the greatest decrease in losses (date and amount) over the entire period
 
-![alt text](http://url/to/img.png)
+![agreatpybankimage](https://github.com/kameswari609/python-challenge/blob/master/revenue-per-lead.png)
