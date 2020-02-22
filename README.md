@@ -1,6 +1,6 @@
 # python-challenge
 python 1st assigment 
-# Project Title
+# PY BANK CHALLENGE
 
 this pybank project describes the budget-data csv file stats. 
 the csv file has date and profit/loss columns
