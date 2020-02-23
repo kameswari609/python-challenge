@@ -26,7 +26,7 @@ The percentage of votes each candidate won
 The total number of votes each candidate won
 The winner of the election based on popular vote.
 
-![agreatpybankimage](https://github.com/kameswari609/python-challenge/blob/master/revenue-per-lead.png)
+![agreatpybankimage](https://github.com/kameswari609/python-challenge/blob/master/vote_counting.png)
 
 both the projects had to output the terminal to txt file.
 
